@@ -1,0 +1,9 @@
+poodle: Fifi
+cockapoo: Laney
+beagle: Snoopy
+shepherd: Fido
+bulldog: Spike
+cockapoo: Heidi
+poodle: Toby
+beagle: Stella
+shepherd: Jugger

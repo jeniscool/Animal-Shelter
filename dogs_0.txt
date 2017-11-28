@@ -1,0 +1,13 @@
+goldendoodle: Samson, Yellow, Moe
+poodle: Fifi, Snookums
+cockapoo: Laney, Maxwell
+beagle: Snoopy, Rover, Spot
+collie: Sam, Chauncy, Miranda, Kelly
+shepherd: Fido, Jugger
+bulldog: Spike
+goldendoodle: Jade, Ally, Pinky
+maltese: Aspen, Jasper
+cockapoo: Heidi, Hans
+poodle: Toby
+beagle: Stella
+collie: Bella

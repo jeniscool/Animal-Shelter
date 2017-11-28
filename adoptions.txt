@@ -1,0 +1,17 @@
+John; poodle
+Mary; collie
+Charles; shepherd
+Joanne; bulldog
+Tim; collie
+Julia; cockapoo
+Lowell; shepherd
+Joe; dachsund
+Jeff; shepherd
+Katie; shepherd
+Sarah; beagle
+Emma; cockapoo
+Lula; cockapoo
+Becky; poodle
+Lana; bulldog
+Emily; goldendoodle
+Tom; beagle
